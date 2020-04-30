@@ -1,0 +1,13 @@
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\obj\Debug\netcoreapp3.1\ReadXMLFileExample.csprojAssemblyReference.cache
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\obj\Debug\netcoreapp3.1\ReadXMLFileExample.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\obj\Debug\netcoreapp3.1\ReadXMLFileExample.AssemblyInfoInputs.cache
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\obj\Debug\netcoreapp3.1\ReadXMLFileExample.AssemblyInfo.cs
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\bin\Debug\netcoreapp3.1\ReadXMLFileExample.exe
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\bin\Debug\netcoreapp3.1\ReadXMLFileExample.deps.json
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\bin\Debug\netcoreapp3.1\ReadXMLFileExample.runtimeconfig.json
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\bin\Debug\netcoreapp3.1\ReadXMLFileExample.runtimeconfig.dev.json
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\bin\Debug\netcoreapp3.1\ReadXMLFileExample.dll
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\bin\Debug\netcoreapp3.1\ReadXMLFileExample.pdb
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\obj\Debug\netcoreapp3.1\ReadXMLFileExample.dll
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\obj\Debug\netcoreapp3.1\ReadXMLFileExample.pdb
+C:\WorkSpace\Programming\SOV\ReadXMLFileExample\ReadXMLFileExample\obj\Debug\netcoreapp3.1\ReadXMLFileExample.genruntimeconfig.cache
